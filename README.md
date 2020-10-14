@@ -1,6 +1,6 @@
 # CSS/SCSS Practice
 
-## [Nomad Coders Based Practices] (https://nomadcoders.co/css-layout-masterclass/lobby) 
+## [Nomad Coders Based Practices](https://nomadcoders.co/css-layout-masterclass/lobby) 
 - [ ] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
 - [ ] [https://paint-box.com/](https://paint-box.com/)
 - [ ] [http://10x19.co/](http://10x19.co/)
